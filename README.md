@@ -11,4 +11,6 @@ Soy un apasionado de la industria tecnológica, me gusta crear aplicaciones web 
 ---
 
 <h2 align="left" font-weight="bold">Escuchando</h2>  
- [![Spotify](https://spotify-playing-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/224cnneykttsmqsa3p76wgfna)<br>
+[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+
+[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
