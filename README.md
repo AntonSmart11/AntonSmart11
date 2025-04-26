@@ -16,11 +16,9 @@ Soy un apasionado de la industria tecnológica, me gusta crear aplicaciones web 
 
 ---
 
-<h2 align="left" font-weight="bold">🎧 Habilidades</h2>  
+<h2 align="left" font-weight="bold">💻 Habilidades</h2>  
 
 <p align="center">
-
-- **Languages**:
     
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='html5' src='https://img.shields.io/badge/HTML5-100000?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF7834&color=FF7834'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='CSS3' src='https://img.shields.io/badge/CSS3-100000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=009AFF&color=009AFF'/></a>
