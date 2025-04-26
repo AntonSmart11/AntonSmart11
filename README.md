@@ -11,6 +11,5 @@ Soy un apasionado de la industria tecnológica, me gusta crear aplicaciones web 
 ---
 
 <h2 align="left" font-weight="bold">Escuchando</h2>  
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
 
-[//]: <> (The `&nbsp;` is to have Aphelion take up more space)
+[![Spotify](https://spotify-now-dusky.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)]()
