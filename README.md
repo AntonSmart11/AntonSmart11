@@ -7,3 +7,8 @@
 <h2 align="left" font-weight="bold">Sobre mí</h2>  
 Soy un apasionado de la industria tecnológica, me gusta crear aplicaciones web o páginas web que brinden una experiencia buena para el usuario. Soy una persona creativa, comprometida, autodidacta y responsable dentro de los proyectos.
 <br>
+
+---
+
+<h2 align="left" font-weight="bold">Escuchando</h2>  
+[<img src="https://spotify-playing-sigma.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />()
