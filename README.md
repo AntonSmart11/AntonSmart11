@@ -11,4 +11,4 @@ Soy un apasionado de la industria tecnológica, me gusta crear aplicaciones web 
 ---
 
 <h2 align="left" font-weight="bold">Escuchando</h2>  
-[<img src="https://spotify-playing-sigma.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />()
+ [![Spotify](https://spotify-playing-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/224cnneykttsmqsa3p76wgfna)<br>
